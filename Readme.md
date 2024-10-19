@@ -1,26 +1,50 @@
+  #                                                                                 Full Stack Java Developer
+
+As a dedicated and innovative Software Engineer, I possess a strong foundation in programming and development with a keen interest in cutting-edge technologies. My passion lies in creating robust and user-friendly web applications, continually updating my skills to stay ahead in the ever-evolving tech landscape.
+
+## 🚀 My Expertise:
+
+- **Full Stack Development**: Skilled in **HTML**, **CSS**, **JavaScript**, and **Bootstrap**  
+- **Backend Development**: Expertise in **Python**, **Java**, and **Python** to build scalable and efficient backend systems.
+- **Project Optimization**: Proven track record in enhancing website performance and SEO to improve online visibility.
+- **Problem Solving**: Developed innovative solutions for real-world challenges through hackathons and professional projects.
+
+
+## 🔧 Tech Stack:
+
+- **Languages**: Python, JavaScript, Java
+- **Web Technologies**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- **Backend Framework**: Django, Spring Boot
+- **Version Control**: Git, GitHub, Docker
+- **Design Tools**: Figma
+- **Operating Systems**: Windows, macOS, Linux
+
+ 
+## 👥 Let's Connect:
+
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/nidhic05/)
  
 
-### Languages
+## ABOUT ME:
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
- 
+- Computer Engineering student with a passion for technology and innovation.
+- Proficient in web development and keenly interested in blockchain technology.
+<details>
+<summary>Programming Languages</summary>
 
-### Technologies
+| Rank | Languages   |
+|-----:|-------------|
+|     1| Python      |
+|     2| JavaScript  |
+|     3| SQL Database|
+|     4| Java        |
+|     5| C++         |
+
+</details>
+
+---
+>  
+> 
+> 
 
  
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
- 
- 
- 
- ><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
