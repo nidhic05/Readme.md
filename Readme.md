@@ -18,13 +18,7 @@ As a dedicated and innovative Software Engineer, I possess a strong foundation i
 - **Version Control**: Git, GitHub, Docker
 - **Design Tools**: Figma
 - **Operating Systems**: Windows, macOS, Linux
-
  
-## 👥 Let's Connect:
-
-- **LinkedIn**: [Profile](https://www.linkedin.com/in/nidhic05/)
- 
-
 ## ABOUT ME:
 
 - Computer Engineering student with a passion for technology and innovation.
